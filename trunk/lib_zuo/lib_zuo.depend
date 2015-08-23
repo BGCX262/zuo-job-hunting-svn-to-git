@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1345194173 source:/home/zuo/cpp/lib_zuo/main.cpp
+
+1345258435 source:/home/zuo/cpp/lib_zuo/print.cpp
+	"print.h"
+
+1345219929 /home/zuo/cpp/lib_zuo/print.h
+	<iostream>
+	<vector>
+
+1345339283 source:/home/zuo/cpp/lib_zuo/datastructure/linklist.cpp
+	"linklist.h"
+
+1345339804 /home/zuo/cpp/lib_zuo/datastructure/linklist.h
+	<iostream>
+
+1345686627 source:/home/zuo/cpp/lib_zuo/test.cpp
+	<iostream>
+	"util/command.h"
+
+1345686742 /home/zuo/cpp/lib_zuo/util/command.h
+	<iostream>
+	<stdlib.h>
+
